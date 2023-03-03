@@ -1,0 +1,15 @@
+/Users/michaelbrover/RiderProjects/Interview/Interview/bin/Debug/net6.0/Interview
+/Users/michaelbrover/RiderProjects/Interview/Interview/bin/Debug/net6.0/Interview.deps.json
+/Users/michaelbrover/RiderProjects/Interview/Interview/bin/Debug/net6.0/Interview.runtimeconfig.json
+/Users/michaelbrover/RiderProjects/Interview/Interview/bin/Debug/net6.0/Interview.dll
+/Users/michaelbrover/RiderProjects/Interview/Interview/bin/Debug/net6.0/Interview.pdb
+/Users/michaelbrover/RiderProjects/Interview/Interview/obj/Debug/net6.0/Interview.csproj.AssemblyReference.cache
+/Users/michaelbrover/RiderProjects/Interview/Interview/obj/Debug/net6.0/Interview.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelbrover/RiderProjects/Interview/Interview/obj/Debug/net6.0/Interview.AssemblyInfoInputs.cache
+/Users/michaelbrover/RiderProjects/Interview/Interview/obj/Debug/net6.0/Interview.AssemblyInfo.cs
+/Users/michaelbrover/RiderProjects/Interview/Interview/obj/Debug/net6.0/Interview.csproj.CoreCompileInputs.cache
+/Users/michaelbrover/RiderProjects/Interview/Interview/obj/Debug/net6.0/Interview.dll
+/Users/michaelbrover/RiderProjects/Interview/Interview/obj/Debug/net6.0/refint/Interview.dll
+/Users/michaelbrover/RiderProjects/Interview/Interview/obj/Debug/net6.0/Interview.pdb
+/Users/michaelbrover/RiderProjects/Interview/Interview/obj/Debug/net6.0/Interview.genruntimeconfig.cache
+/Users/michaelbrover/RiderProjects/Interview/Interview/obj/Debug/net6.0/ref/Interview.dll
